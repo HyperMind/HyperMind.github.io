@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Warpspire</title>
- <link href="http://warpspire.com/feed" rel="self"/>
- <link href="http://warpspire.com/"/>
+ <link href="ubermind.github.io/feed" rel="self"/>
+ <link href="ubermind.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://warpspire.com/</id>
  <author>
@@ -20,7 +20,7 @@ layout: nil
    {% if post.type == 'link' %}
      <link href="{{ post.link }}" />
    {% else %}
-     <link href="http://warpspire.com{{ post.url }}" />
+     <link href="ubermind.github.io/{{ post.url }}" />
    {% endif %}
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://warpspire.com{{ post.id }}</id>
