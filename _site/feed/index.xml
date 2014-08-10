@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Warpspire</title>
+ <link href="ubermind.github.io/feed" rel="self"/>
+ <link href="ubermind.github.io/"/>
+ <updated>2014-08-10T23:11:54+03:00</updated>
+ <id>http://warpspire.com/</id>
+ <author>
+   <name>Kyle Neath</name>
+   <email>kneath+warpspire@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Reinventing explanation</title>
+   
+     <link href="http://michaelnielsen.org/reinventing_explanation/index.html" />
+   
+   <updated>2014-08-04T00:00:00+03:00</updated>
+   <id>http://warpspire.com/posts/rethinking-explanation</id>
+   <content type="html">&lt;p&gt;Michael Nielsen on how to act upon knowledge :&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;the core issue here isn&amp;rsquo;t just to learn a set of facts. It&amp;rsquo;s at least as  important to replace your old instinctive habits of thought with new habits of thought.
+A conventional response to all this is to shrug our shoulders and say that some people are &amp;ldquo;smart&amp;rdquo;, meaning that they have strategies to convert knowledge of the facts into a change in their habits of thought, and that other people are &amp;ldquo;not so smart&amp;rdquo;, meaning that they don&amp;rsquo;t apply such strategies. I believe this is wrong, I believe we can and should improve our explanations to help people change their habits of thought.
+We can do this by not just providing the facts, but by also directly cueing changes in people&amp;rsquo;s habits of thought. One simple idea for how to do this is to dramatize as vividly as possible the point at which an interruption in our thinking should occur. It&amp;rsquo;s that moment which we want people to recognize and act on, as it occurs.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Debuting my First iOS App?</title>
+   
+     <link href="ubermind.github.io//posts/My-First-iOS-App" />
+   
+   <updated>2013-12-02T00:00:00+03:00</updated>
+   <id>http://warpspire.com/posts/My-First-iOS-App</id>
+   <content type="html">&lt;p&gt;It was really a long journey to program this app given that I did it as a side project.&lt;/p&gt;
+
+&lt;p&gt;in a nutshell PyDocs helps you read Python documentation on-the-go. you can browse and search the reference completely offline. It includes Docs for Python and common used 3rd party libraries.&lt;/p&gt;
+
+&lt;p&gt;Python 2.7 , Python 3.3, Django , Flask , Numpy , Scipy ,Sickit-learn, Pandas&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/iphone-1.jpg&quot; alt=&quot;iphone snapshot&quot;&gt;
+&lt;img src=&quot;/public/images/iphone-2.jpg&quot; alt=&quot;iphone snapshot&quot;&gt;
+&lt;img src=&quot;/public/images/iphone-3.jpg&quot; alt=&quot;iphone snapshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Find it on the app store &lt;a href=&quot;https://itunes.apple.com/us/app/pydocs/id747985884?ls=1&amp;amp;mt=8&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
