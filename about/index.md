@@ -4,7 +4,7 @@ title: "About Me"
 ---
 
 
-I am an Electrical engineer by day and  iOS developer and Python hacker by night. I am an Avid learner with passion for Artificial Intelligence, Mobile, Machine learning, Hardware Design, Science and Philosophy. 
+I am an Electrical engineer by day and  iOS developer and Python hacker by night. I am an Avid learner with passion for Artificial Intelligence, Mobile, Machine learning, Algorithms. 
 
 
 ##Projects
