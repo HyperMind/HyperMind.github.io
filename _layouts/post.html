@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<p class="date">{{ page.date | date: "%B %e, %Y" }}</p>
+<p class="date">Created:&nbsp {{ page.date | date: "%B %e, %Y" }} &nbsp &nbsp &nbsp  Modified:&nbsp {{page.modified | date: "%B %e, %Y" }}</p>
+
 <h1 class="post">{{ page.title }}</h1>
 {{ content }}
 

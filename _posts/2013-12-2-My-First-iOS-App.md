@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Debuting my First iOS App?
-summary: Excited about my new iPad, I made this app for browsing Python popular libraries and frameworks offline and in a searchable manner. it is universal app for iPhone and iPad ....
+title: Debuting my First iOS App
+modified: 2015-1-4
+category: Projects
 ---
 
 It was really a long journey to program this app given that I did it as a side project.

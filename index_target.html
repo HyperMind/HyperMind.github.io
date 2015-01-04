@@ -1,0 +1,83 @@
+---
+layout: default
+head_content:
+  <link rel="alternate" type="application/atom+xml" href="http://hypermind.github.com/feed/" />
+---
+<hr />
+
+<h2>Aritifical Intelligence</h2>
+<ul>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'AI' %}
+   <li> <h4><a href="{{ post.url }}">{{ post.title }}</a></h2></li>
+    
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Computer Science</h2>
+ <ul>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'AI' %}
+  
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h4> </li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+
+<h2>Philosophy</h2>
+ <ul>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'AI' %}
+  
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h4> </li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+
+<h2>Science</h2>
+ <ul>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'AI' %}
+  
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h4> </li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+<h2>Others</h2>
+ <ul>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'AI' %}
+  
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h4> </li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+
+<h2>Projects </h2>
+  {% for post in site.posts %}
+  {% if post.category == 'Projects' %}
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h2></li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+<h2>Personal </h2>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'Mobile' %}
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h2></li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+ </div>

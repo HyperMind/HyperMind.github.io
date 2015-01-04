@@ -4,7 +4,7 @@ title: "About Me"
 ---
 
 
-I am an Electrical engineer by day and  iOS developer and Python hacker by night. I am an Avid learner with passion for Artificial Intelligence, Mobile, Machine learning, Algorithms. 
+I am an Electrical engineer by day and Python hacker by night. I am an Avid learner with passion for Artificial Intelligence, Machine learning, Algorithms and Problem Solving. 
 
 
 ##Projects
@@ -15,10 +15,9 @@ I am an Electrical engineer by day and  iOS developer and Python hacker by night
 ## Websites
 Where I hangout
 
-* [Github](https://github.com/mohamad-ibrahim)
-* [Quora](http://www.quora.com/Mohammad-Ibrahim)
-* [Email](mailto:mohamad@mohamad-ibrahim.com)
-* [Evernote](https://www.evernote.com/pub/pathfinder23/mohammadsnotes) I share notes and snapshots of interesting things around the web
+* [Github]()
+* [Quora]()
+* [Email]()
 
 ## MOOCS
 Massive Open Online Courses:
