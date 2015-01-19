@@ -16,14 +16,14 @@ I am an Electrical engineer by day and Python hacker by night. I am an Avid lear
 Where I hangout
 
 * [Github]()
-* [Quora]()
 * [Email]()
 
-## MOOCS
+<!-- ## MOOCS
 Massive Open Online Courses:
 
 * [Google Power Searching](http://www.powersearchingwithgoogle.com/), October, 2012
 * [Machine Learning](https://www.coursera.org/course/ml),  Stanford, March, 2013
 * [Try R: Code School](http://tryr.codeschool.com/),  R programming Langauage, October, 2013
+-->
 
 </div>

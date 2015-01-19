@@ -50,6 +50,18 @@ head_content:
 {% endfor %}
 <ul>
 
+<h2>Literature</h2>
+ <ul>
+  {% for post in site.posts %}
+  {% if post.subcategory == 'AI' %}
+  
+    <li><h4><a href="{{ post.url }}">{{ post.title }}</a></h4> </li>
+    
+  {% endif %}
+{% endfor %}
+<ul>
+
+
 <h2>Others</h2>
  <ul>
   {% for post in site.posts %}

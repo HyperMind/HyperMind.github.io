@@ -1,6 +1,7 @@
 /*----------------------------------------------------------------------------
   Global Reset
 ----------------------------------------------------------------------------*/
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic,300,300italic&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Lato); /* lato 1, 2 arvo, 3 Vollkorn, 4 Droid+Sans */
 * {
   padding:0;
@@ -32,13 +33,13 @@ a img{ border:none; }
 ----------------------------------------------------------------------------*/
 
 body {
-  font-family: Lato,sans-serif;
-  font-size: 19px;
+  font-family: 'Merriweather',Lato,sans-serif;
+  font-size: 17px; /* if Lato, font-size=19 */
   line-height: 1.7;
   color: #000;
   background: #FFF;
   text-shadow: 0 1px 0 rgba(255,255,255,1.0);
-  border-top: 4px solid #22313F;
+  border-top: 2px solid #000;
 }
 
 strong {
@@ -46,8 +47,8 @@ strong {
 }
 
 a {
-  color: #3367CC;
-  text-decoration: none;
+  color: #0C4761;
+  text-decoration: underline;
 
 }
 a:hover {
@@ -70,8 +71,8 @@ hr {
 }
 
 header {
-  margin: 0 0 20px 0;
-  text-align: center;
+  margin: 0 0 0px 0;
+  text-align: left; /* if log enables, this shall be centered */
   border-bottom: 1px solid #fff;
 }
 
@@ -83,7 +84,8 @@ ul.nav {
   border-bottom: 1px solid #dfe4ea;
 }
 ul.nav li {
-  margin: 0 20px;
+  margin-left:0px;
+  margin-right: 30px;
   display: inline-block;
   text-transform: uppercase;
   font-size: 16px;
@@ -122,7 +124,7 @@ ul.nav li.logo a {
   line-height: 26px;
   color: #fff;
   font-weight: bold;
-  background: #22313F;
+  background: #000;
   border-radius: 100px;
   box-shadow: 0 1px 0 rgba(255,255,255,1.0);
 }
